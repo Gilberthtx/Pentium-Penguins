@@ -58,9 +58,10 @@
 .7z filter=lfs diff=lfs merge=lfs -text
 .tar.7z filter=lfs diff=lfs merge=lfs -text
 VuforiaEngine filter=lfs diff=lfs merge=lfs -text
+ArtifactDB filter=lfs diff=lfs merge=lfs -text
 payload.tar.7z filter=lfs diff=lfs merge=lfs -text
 . filter=lfs diff=lfs merge=lfs -text
-My[[:space:]]project/Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@1.0.0/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
-My[[:space:]]project/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
-My[[:space:]]project/Library/PackageCache/com.ptc.vuforia.engine@43f60a4e7c36-1642756205000/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine filter=lfs diff=lfs merge=lfs -text
-Assignment-2/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Pentium-Penguins/Library/PackageCache/com.unity.toolchain.win-x86_64-linux-x86_64@1.0.0/data~/payload.tar.7z filter=lfs diff=lfs merge=lfs -text
+Pentium-Penguins/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Pentium-Penguins/Library/PackageCache/com.ptc.vuforia.engine@43f60a4e7c36-1642756205000/Vuforia/Plugins/iOS/VuforiaEngine.framework/VuforiaEngine filter=lfs diff=lfs merge=lfs -text
+Pentium-Penguins/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
